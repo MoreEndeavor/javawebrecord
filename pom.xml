@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>servletcollaboration</module>
+        <module>servletConfigDemo</module>
     </modules>
     <dependencies>
         <dependency>
