@@ -11,6 +11,8 @@
     <modules>
         <module>servletcollaboration</module>
         <module>servletConfigDemo</module>
+        <module>servletAttributeDemo</module>
+        <module>ServletContextDemo</module>
     </modules>
     <dependencies>
         <dependency>
