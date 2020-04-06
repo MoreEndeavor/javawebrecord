@@ -13,6 +13,7 @@
         <module>servletConfigDemo</module>
         <module>servletAttributeDemo</module>
         <module>ServletContextDemo</module>
+        <module>ServletTrackOfCookie</module>
     </modules>
     <dependencies>
         <dependency>
