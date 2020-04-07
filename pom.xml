@@ -15,6 +15,7 @@
         <module>ServletContextDemo</module>
         <module>ServletTrackOfCookie</module>
         <module>HiddenFormField</module>
+        <module>ServletTrackURLRewrite</module>
     </modules>
     <dependencies>
         <dependency>
